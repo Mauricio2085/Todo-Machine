@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-Machine/static/css/main.1350f8e2.css",
+    "main.js": "/Todo-Machine/static/js/main.73e365bf.js",
+    "static/media/Smart_Pocket_V2_Logo_Web_200x40px.svg": "/Todo-Machine/static/media/Smart_Pocket_V2_Logo_Web_200x40px.a301fe075e0c2defd3c660f1d074a2c2.svg",
+    "index.html": "/Todo-Machine/index.html",
+    "main.1350f8e2.css.map": "/Todo-Machine/static/css/main.1350f8e2.css.map",
+    "main.73e365bf.js.map": "/Todo-Machine/static/js/main.73e365bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1350f8e2.css",
+    "static/js/main.73e365bf.js"
+  ]
+}
