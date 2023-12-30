@@ -1,0 +1,33 @@
+@keyframes efect {
+    0% {
+      opacity: 100;
+    }
+  
+    50% {
+        opacity: 0;
+        background-color: aqua;
+      }
+
+      75% {
+        opacity: 100;
+    }
+
+    100% {
+        opacity: 100;
+    }
+  }
+
+.efect-logo {
+    width: 50%;
+    animation: 1.5s infinite efect;
+}
+
+.TodoLoading {
+    background-color: #fafafa;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
+}
